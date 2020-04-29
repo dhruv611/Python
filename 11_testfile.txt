@@ -1,0 +1,12 @@
+Okay, so now we know how to open a file.
+Now we have to learn how to read through the file, and it couldn't be easier, it really couldn't be easier.
+From: sharma.dhruv@gamil.com It's almost at the point where you probably would have guessed it if I didn't tell you. Well, so xfile. remember,
+is not the data, it's a way to get to the data. From: drvshr: 123@gmail.com: It's a sequence. Well, we already have a loop, the determinant loop,
+the for loop, and all you do is you put the handle here. Now this is not the same as putting a string there, the for
+ loop is smart. This is some kind of a sequence of things. So a file handle to the for loop looks like a sequence of
+ lines. It's a sequence of lines. So again, the for loop is going to run this code multiple times where the iteration
+ variable, cheese in this case, is going to take on the successive lines. If this file has 10 lines, this loop is going
+  to run 10 times. Cheese is going to be the first line, the second line, third line. So that's it, that's it. Isn't it
+   pretty? No while loop, no end of file, no nothing. Run this as many times as necessary, one time through for each of
+    the lines in the file. You take care all the stuff. And if you've done this in other programming languages, you'll
+    be like, Python, you are my friend. Because it's simple. And you can look at it and go like, I know what it's d
